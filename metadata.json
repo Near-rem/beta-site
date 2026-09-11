@@ -1,0 +1,8 @@
+{
+  "name": "Beta Site",
+  "description": "A modern beta portal and hub for Near-rem/beta-site, featuring project announcements, release roadmap, feature status, and early feedback collection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
